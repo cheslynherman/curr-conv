@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    background-image: linear-gradient(to left, blue, rgb(167, 139, 139), red);
+}
+
+input {
+    border: 2px solid black;
+    margin: 5px;
+}
+
+select {
+    border: 2px solid black;
+    margin: 5px;
+}
+
+button {
+    background: white;
+    border: 2px solid black;
+    margin: 5px;
+    width: 70px;
+    height: 50px;
+}
+
+p {
+    font-size: x-large;
+}
